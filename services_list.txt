@@ -1,9 +1,1 @@
-vmicheartbeat
-vmickvpexchange
-vmicrdv
-vmicshutdown
-vmictimesync
-vmicvss
-VmRemoteService
-VSS
-Sysmon64
+
